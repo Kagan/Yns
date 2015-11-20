@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.YunusEmre"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="7"
+        android:targetSdkVersion="16" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.deneme1.Main"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.ANA" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        
+        <activity
+            android:name="com.example.deneme1.Splash"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+              
+       
+        
+        <activity
+            android:name="com.example.deneme1.eser"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.example.deneme1.ESERBIR" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+            
+        <activity
+            android:name="com.example.deneme1.sozleri"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.example.deneme1.SOZLERI" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+
+        
+
+        
+        <activity
+            android:name="com.example.deneme1.siir"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.example.deneme1.SIIRBIR" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        
+       
+        
+        <activity
+            android:name="com.example.deneme1.hayati"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.example.deneme1.HAYATI" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="com.example.deneme1.ListView"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.example.deneme1.LISTVIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        
+        <activity
+            android:name="com.example.deneme1.ListView1"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.example.deneme1.LISTVIEWBIR" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+    
+        
+        <activity
+            android:name="com.example.deneme1.siirler"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.example.deneme1.SIIRLE" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+         </activity>
+        
+               
+        
+    </application>
+
+</manifest>

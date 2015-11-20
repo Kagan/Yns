@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <scrollView>
+    	<TextView
+        	android:id="@+id/textView1"
+        	android:layout_width="236dp"
+        	android:layout_height="wrap_content"
+        	android:layout_centerHorizontal="true"
+        	android:layout_centerVertical="true"
+        	android:layout_marginLeft="40dp"
+        	android:text="Zehir ile Pişen Aşı Yemeğe Kim Gelir..
+
+Türlü Türlü Cefanın Adını Aşk Koymuşlar..
+
+Çok Mal Haramsız, Çok Laf Yalansız Olmaz..
+
+Dağlar Nice Yüksek ise Yol Onun üstünden Geçer..
+
+Aşk aşıkı şir eder, aslanı zencir eder, katı taşı mum eder..
+
+Eğer Bir Müminin Kalbini Kırarsan Hakk’a Eylediğin Secde Değildir..
+
+Beni Bende Demen Bende Değilem Bir Ben Vardır Bende Benden İçeri..
+
+Bu Dünyaya Gelen Gider Yürü Fani Dünya, sana Gelende Gülmüş Var Mıdır?
+
+İlim İlim Bilmektir İlim Kendin Bilmektir Sen Kendini Bilmezsin Ya Nice Okumaktır..
+
+İyi sözün aslını bilen derdi bu söz nerden gelir. Söz aslını anlamayan sanır bu söz benden gelir..
+
+Biz kimseye küsmeyelim, kırılmayalım. Kırık kâsede su durur mu? Kırık bir kalpte Allah durmaz..
+
+Bir bahçeye giremezsen, durup seyran eyleme. Bir gönül yapamazsan, yıkıp viran eyleme..
+
+Sensin ismi baki olan sensin dillerde okunan; Senin aşkına dokunan kendini bilmez Allah’ım..
+
+Her kim sever Allah’ı, Rahmet kılar vallahi; Dil sevgisiyle olmaz, Aşk ile yanan gelsin.
+
+Az söz erin yüküdür, çok söz hayvan yüküdür. Bilene bu söz yeter, sende cevher var ise.
+
+Nefstir Seni Yolda Koyan Yolda Kalır Nefse Uyan..
+
+Dünyada Dertsiz Baş Olmaz Derd`olanın Ahı Dinmez..
+
+Gel ey kardeş, Hakkı bulayım dersen, bir kamil mürşide varmassan olmaz..
+
+Ben Sevdiğimi Demez isem,sevmek Derdi Boğar Beni..
+
+Sabır Saadeti Ebedi Kalır Sabır Kimde ise O Nasib Alır.."
+/>
+</scrollView>   
+
+</LinearLayout>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent" 
+    android:orientation="vertical"
+    android:background="@drawable/siirarka"
+     >
+    
+
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+    
+    <TextView 
+        android:id="@+id/textView3"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:text="YUNUS EMRE HAYATI"
+        android:textSize="18dp"
+        android:textColor="#000000" 
+        android:layout_marginLeft="140dp"       
+        />
+    
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"        
+        android:layout_marginRight="40dp"        
+        android:layout_marginTop="10dp"
+        android:textColor="#000000"
+        android:layout_marginLeft="140dp" 
+        android:text="
+ 
+Türk halk şairlerinin tartışmasız öncüsü olan ve Türk’ün İslam’a bakışını Türk dilinin tüm sadelik ve güzelliğiyle ortaya koyan Yunus Emre, sevgiyi felsefe haline getirmiş örnek bir insandır. Yaklaşık 700 yıldır Türk milleti tarafından dilden dile aktarılmış, türkü ve ilahilere söz olmuş, yer yer atasözü misali dilden dile dolaşmış mısralarıyla Yunus Emre, Türk kültür ve medeniyetinin oluşumuna büyük katkılar sağlamış bir gönül adamıdır. Bazı kaynaklarda Anadolu’ya gelen Türk boylarından birine bağlı olup, 1238 dolaylarında doğduğu rivayet edilirse de bu kesin değildir; tıpkı 1320 dolaylarında Eskişehir’de öldüğü yolundaki rivayetlerde olduğu gibi. Batı Anadolu’nun birkaç yöresinde “Yunus Emre” adını taşıyan ve onunla ilgili görüldüğünden “makam” adı verilen yer vardır.
+
+           Bir garip öldü diyeler Üç gün sonra duyalar Soğuk su ile yuyalar Şöyle garip bencileyin diyen Yunus,belki de doğduğu ve yaşadığı topraklardan çok uzaklarda bu dünyadan göçüp gittiğini anlatmak istemektedir. Türkiye’nin pek çok yerinde Yunus Emre’nin mezarı olduğu iddia edilen pek çok mezar ve türbe vardır. Bunlardan başlıcalar şöyle sıralanabilir: Eskişehir’in Mihalıççık ilçesine bağlı Sarıköy; Karaman’da Yunus Emre Camii avlusu; Bursa; Kula ile Salihli arasında Emre Sultan köyü; Erzurum, Duzcu köyü; Isparta’nın Keçiborlu ilçesi civarı; Aksaray; Afyon’un Sandıklı ilçesi; Ordu’nun Ünye ilçesi; Sivas yakınında bir yol üstü. Görüldüğü gibi sayı ve iddia hayli kabarıktır. Bazı belgeler, Yunus Emre’nin asıl mezarının Karaman veya Sarıköy’de olduğuna işaret etmektedir. Nitekim, 1970′li yılların başında Sarıköy’deki mezarın Yunus’a ait olduğuna kesin gözüyle bakılarak bu köye Yunus Emre adı verildi ve oradaki bir bahçe içine anıt dikildi. 1980′li yıllarda ise, 1350′de yapılmış olan Karaman’daki Yunus Emre Camii’nin yanındaki mezarın onun gerçek mezarı olduğu iddia edildi. Aslında bu durum, Yunus Emre’nin Türkler tarafından ne kadar sevildiği ve benimsendiğinin çarpıcı bir örneğidir. Gerçekten de halktan biri olan Yunus Emre, halkın değer, duygu ve düşüncelerini dile getirişi itibariyle tarihimizin en halkla barışık aydınlarından biri olma özelliğine sahiptir. Türk tasavvufunun dilde ve şiirde kurucusu olan Yunus Emre’nin şiirlerinde ahlak, hikmet, din, aşk gibi konuların hemen hepsi tasavvuftan çıkar ve tasavvuf görüşü çerçevesinde bir yere oturtulur.
+
+         Mısralarında didaktik ahlak telkinlerinde bulunan Yunus Emre, “gönül kırmamak” konusuna ayrı bir önem verir ve “üstün bir değer” olarak şiirlerinde bu konuyu özenle işler. Bu arada Yunus Emre’yi öne çıkaran bir başka önemli özelliği de, şiirlerinde işlediği konuları ve telkinleri bizzat kendi hayatında uygulamasıdır.
+
+          “Din tamam olunca doğar muhabbet” diyen Yunus, İslam’ın sabır, kanaat, hoşgörürlük, cömertlik, iyilik, fazilet değerlerini benimsemeyi telkin eder. Yunus’un sanat anlayışı, dini ve milli değerleri bağdaştırdığı mısralarında kendini gösterir; millileşen tasavvufa, Türkçenin en güzel ve en güçlü özelliklerini kullanarak tercüman olur. Gerçekten de 11,12 ve 13. asırlarda Türkistan ve Anadolu Türkleri arasında çok yayılan tasavvufun Türk şairleri arasında iki büyük sözcüsü vardır: Türkistan’da Ahmet Yesevi, Anadolu’da Yunus Emre… 
+
+          Yunus Emre’nin tasavvuf anlayışında dervişlik olgunluktur, aşktır; Allah katında kabul görmektir; nefsini yenmek, iradeyi eritmektir; kavgaya, nifaka, gösterişe, hamlığa, riyaya, düşmanlığa, şekilciliğe karşı çıkmaktır.
+
+          Yunus Emre aynı zamanda bütün insanlığa hitap eden büyük şairlerdendir. Bu anlamda Mevlana’nın bir benzeridir. O’nun Mevlana kadar çok tanınmayışı ise, bir yandan kullandığı dil olan Türkçe’nin Batı’da Farsça kadar bilinmemesi, öte yandan da Türk aydınlarının O’nu ihmal etmesindendir. Yunus’taki insanlık sevgisi, neredeyse kendisiyle özdeşleşmiş “sevgi felsefesinin bir parçası ve hatta sonucudur. Nitekim Yunus’un insan sevgisini ilahi sevgi ile nasıl bağdaştırdığını gösteren en çarpıcı mısralarından birisi “Yaradılanı hoş gör / Yaradan’dan ötürü”dür. Yunus Emre’ye göre insanlar, din, mezhep, ırk, millet, renk, mevki, sınıf farkı gözetilmeksizin sevilmeyi hak etmektedirler. Madem ki insanoğlu ruh yönüyle Allah’tan gelmektedir; öyleyse insanlar hiçbir şekilde birbirlerinden bu anlamda ayrılamazlar.
+
+          Yaşadığı çağın gerçekleri göz önünde bulundurulduğunda Yunus’un bir başka önemli tarafı ortaya çıkar: Yunus Emre, hükümetsizlik içinde çalkalanan ve Moğol istilaları ile mahvolan Anadolu topraklarında ortaya çıkan sapık batınî cereyanların hiçbirine kapılmadığı gibi, bu akımların Türklerin bütünlüğüne zarar vermesi tehlikesi karşısında da engelleyici bir rol üstlenmiştir. Bu bakımdan bakıldığında Yunus Emre, hem Türk şiirinin kurucusu, hem de milli birliğin önemli tutkallarından biridir. Yunus Emre, kelimenin tam anlamıyla “milli bir sanatçıdır. Tıpkı, Nasrettin Hoca, Köroğlu, Dadaloğlu veya Karacaoğlan gibi… Yunus Emre’nin şiirlerinde en fazla işlenmiş temalar;İlahi aşk, Din, Ahlak, Gurbet, Tabiat, Ölüm ve faniliktir.
+
+"
+        />
+
+</LinearLayout>
+</ScrollView>

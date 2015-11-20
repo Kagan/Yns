@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/siirarka1"
+     >
+     
+	<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+
+	android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="140dp"
+    android:layout_marginRight="10dp"
+    android:layout_marginTop="65dp"
+    android:layout_marginBottom="65dp"    
+    >
+    
+    		<TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"              
+        android:layout_marginTop="10dp"
+        android:textColor="#000000"        
+        android:text="
+YUNUS EMRE DİVANLARI
+
+
+
+
+1-Fatih Nüshası:
+ Yunus Emre’nin en çok bilinen eseri Divan’ıdır.Fakat bu eserin aslını veya en eski nüshasını  tespit etmek çok zordur. Yunus Emre divanı’nın  Türkiye, dünya veya şahıs kütüphanelerinde elliden fazla yazma nüshası bulunmaktadır. Bu eserler daha sonra şifahi olarak derlenmiş veya bir yazmadan istinsah edilmiş nüshalardır.
+ Bugüne kadar yapılan araştırmalarda Yunus Emre’nin kendi kaleminden çıkmış bir nüshaya rastlanmamıştır. Eski ve yeni el yazması Yunus Emre divanları içinde 15. y.y.da istinsah edildiği anlaşılan  Süleymaniye Kütüphanesi- Fatih bölümünde bulunan el yazması nüshadır.
+ Fatih nüshası istinsah tarihi belli olmamakla birlikte, yazı karakteri, imla ve kağıt özellikleri  yönüyle 15. y.y özelliklerdi arzetmektedir. Huruf-u Hece usulüne göre tertip edilen bu eser,  her yönüyle 15. y.y özelliklerdi arz etmektedir. Huruf-u Hece usulüne göre tertip edilen bu eser, bilinen Yunus Emre Divanlarının  en iyisidir, ancak istinsah edeni bilinmemektedir. Bu eser Süleymaniye Kütüphanesi- Fatih Kitapları bölümünde 3889 no’da kayıtlıdır. 210 yapraklı olan Divan nesih yazılı olup, içinde 203 adet şiir bulunmaktadır. ; 
+ 
+ 
+ 
+ 
+ 2-Nuruosmaniye Nüshası: 
+Nuruosmaniye Kütüphanesi 4904 no’da kayıtlıdır. 315 yapraktan müteşekkildir ve içerisinde 219 adet şiir  bulunmaktadır. İstinsah tarihi  H.940, M.1534 dür.
+
+
+
+
+3-Yahya Efendi Nüshası:
+ Süleymaniye Kütüphanesi Hacı Hahmud Efendi bölümünde 3480 no’da kayıtlıdır. 107 yapraktan oluşan  bu Divan’da 302 şiir yer almaktadır. 16.y.y.da istinsah edilmiştir.
+ 
+ 
+ 
+ 
+ 4- Karaman Nüshası :
+Karaman nüshası olarak bilinen  bu nüsha Merhum Baha Kayserilioğlu’nun elindeki nüshadır.
+
+
+
+
+5-Balıkesir Nüshası:
+ Bu nüsha Balıkesir İl Halk Kütüphanesi  451 no’da kayıtlıdır.
+ 
+ 
+ 
+ 
+ 6-Niyazı Mısri nüshası:
+Topkapı Sarayı Müzesi, Hazine Kütüphanesinde 303 numarada kayıtlıdır. Şerh-i Gazel-i Yunus Emre adlı bu nüsha H.1127 tarihinde istinsah edilmiş olup, 16 yapraktan oluşmuş ve nesih yazı ile yazılmıştır.
+ 
+ 
+ 
+ 
+ 7-Bursa Nüshası:
+Bursa İl Halk Kütüphanesi Eski Eserler Bölümünde 882 numarada kayıtlıdır. Nesih Yazı ile yazılmış olan bu nüshada 120 şiir bulunmaktadır ve 53 yapraktan oluşmuştur.
+ 
+ 
+ 
+ 
+ RİSALET-ÜN NUSHİYYE (Ögütler Risalesi):
+          Mesnevi biçiminde, aruz ölçüsü ile yazılmış bu şiir  573 beyittir.  Başta 13 beyitlik  bir başlangıçtan sonra, kısa bir düz yazı vardır. Arkasından destanlar gelir. Destanlarda  Ruh, Nefis, Kanaat, Gazap, Sabır, Haset, Cimrilik, Akıl konuları işlenir.   Öğretici ve öğüt verici bir eserdir. Risalenin sonunda yazıldığına göre “Söze tarih yedi yüz yediydi” mısraından  H.707 de M. 1307 veya 1308 da yazıldığı  anlaşılmaktadır.
+ 
+ " />
+    
+</ScrollView>
+</LinearLayout>
